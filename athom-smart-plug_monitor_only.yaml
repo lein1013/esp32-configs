@@ -129,7 +129,7 @@ bluetooth_proxy:
   active: true
 
 dashboard_import:
-  package_import_url: github://athom-tech/esp32-configs/athom-smart-plug.yaml
+  package_import_url: github://lein1013/esp32-configs/athom-smart-plug_monitor_only.yaml
 
 uart:
   rx_pin: GPIO20
